@@ -1,0 +1,252 @@
+*{
+    font-family: "Josefin Sans", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    height:150px;
+    width:380px;
+    text-align: center;
+    
+
+}
+
+.row1{
+    background-color: rgb(146, 12, 88);
+    height:150px;
+    text-align: center;
+    
+}
+
+.row2{
+    display: flex;
+    height: 35px;
+    background-color:white ;
+    
+    padding:10px;
+    text-align: center;
+}
+
+.col1{
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    
+}
+.col2{
+    width: 100px;
+    height: 50px;
+    text-align: center;
+}
+.col3{
+    width: 100px;
+    height: 50px;
+    text-align: center;
+}
+.col4{
+    width: 200px;
+    height: 50px;
+    text-align: center;
+}
+.col5{
+    width: 100px;
+    height: 50px;
+    text-align: center;
+}
+.col6{
+    width: 200px;
+    height: 50px;
+    text-align: center;
+}
+.col7{
+    width: 100px;
+    height: 50px;
+    text-align: center;
+}
+.col8{
+    width: 100px;
+    height: 50px;
+    text-align: center;
+}
+.col9{
+    width:150px;
+    height: 50px;
+    text-align: center;
+}
+.col10{
+    width:160px;
+    height: 50px;
+    text-align: center;
+}
+.col11{
+    width:180px;
+    height: 50px;
+    text-align: center;
+}
+
+
+
+.banner{
+    background-image: url(https://th.bing.com/th/id/R.2a6fa242b10ab0bcc4a5f3d2c4b08820?rik=YgU7bc2zhD4fRQ&riu=http%3a%2f%2f2.bp.blogspot.com%2f-tN7dwtPvy40%2fVaXw2fMvWQI%2fAAAAAAAAH7E%2fc-EWl5YsZDQ%2fs1600%2fgold04.jpg&ehk=yHlZD2%2btVzJq3uJ3cI%2b7dMuIR0%2fTsC9KPbjDCSyIbJI%3d&risl=&pid=ImgRaw&r=0);
+    height:750px;
+    width:100%;
+    text-align: center;
+}
+
+.row4{
+    display: flex;
+}
+
+
+#ring{
+    height: 200px;
+    width: 200px;
+    border-radius:1000px;
+    margin-top: 20px;
+    border: 8px solid pink;
+    
+
+}
+
+#anglet{
+    height: 200px;
+    width: 200px;
+    border-radius:1000px;
+    margin-top: 20px;
+    border: 8px solid pink;
+}
+#bangle{
+    height: 200px;
+    width: 200px;
+    border-radius:1000px;
+    margin-top: 20px;
+    border: 8px solid pink;
+}
+#earring{
+    height: 200px;
+    width: 200px;
+    border-radius:1000px;
+    margin-top: 20px;
+    border: 8px solid pink;
+}
+#platinum{
+    height: 200px;
+    width: 200px;
+    border-radius:1000px;
+    margin-top: 20px;
+    border: 8px solid pink;
+}
+#band{
+    height: 200px;
+    width: 200px;
+    border-radius:1000px;
+    margin-top: 20px;
+    border: 8px solid pink;
+}
+
+.col12{
+    padding: 15px;
+    text-align: center;
+    
+}
+.col13{
+    padding: 15px;
+    text-align: center;
+}
+.col14{
+    padding: 15px;
+    text-align: center;
+}
+.col15{
+    padding: 15px;
+    text-align: center;
+}
+.col16{
+    padding: 15px;
+    text-align: center;
+}
+.col17{
+    padding: 15px;
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+}
+
+.row5{
+    display: flex;
+    text-align: center;
+
+}
+
+#ear1{
+    
+    height: 350px;
+    width:300px ;
+    border: 2px ridge rgb(212, 212, 248) ;
+    
+    
+}
+#ang2{
+    height: 350px;
+    width:300px ;
+    border: 2px ridge rgb(212, 212, 248) ;
+}
+#chain3{
+    height: 350px;
+    width:300px ;
+    border: 2px ridge rgb(212, 212, 248) ;
+}
+#ear4{
+    height: 350px;
+    width:300px ;
+    border: 2px ridge rgb(212, 212, 248) ;
+}
+
+.col18{
+    
+        background-color: rgb(255, 255, 255);
+        padding: 10px;
+        height: 400px;
+        width: 300px;
+        border: 2px solid rgb(255, 232, 175);
+        margin-top: 50px;
+        margin-left: 40px;
+        
+      }
+   
+
+.col19{
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    height: 400px;
+    width: 300px;
+    border: 2px solid rgb(255, 232, 175);
+    margin-top: 50px;
+    margin-left: 40px;
+
+}
+.col20{
+    background-color: rgb(255, 255, 255);
+        padding: 10px;
+        height: 400px;
+        width: 300px;
+        border: 2px solid rgb(255, 232, 175);
+        margin-top: 50px;
+        margin-left: 40px;
+}
+.col21{
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    height: 400px;
+    width: 300px;
+    border: 2px solid rgb(255, 232, 175);
+    margin-top: 50px;
+    margin-left: 40px;
+}
+
+#hide{
+    margin-left: 1380px;
+}
